@@ -7,22 +7,14 @@ I'm Kinnaird (he/him). My `$dayjob` is as a Lead Cloud Security Engineer at Sale
 #### Open Source Security Tooling
 
 * Author of [Policy Sentry](https://github.com/salesforce/policy_sentry/)
-
 * Author of [Cloudsplaining](https://github.com/salesforce/cloudsplaining)
-
 * Contributor to [Parliament](https://github.com/duo-labs/parliament)
 
 
 #### Blogging
 
-_For Salesforce_:
-
 * [Policy Sentry announcement post](https://engineering.salesforce.com/salesforce-cloud-security-automating-least-privilege-in-aws-iam-with-policy-sentry-b04fe457b8dc)
-
-
-_Personal website_:
-
-[https://kmcquade.com/](https://kmcquade.com/)
+* _Personal website_: [https://kmcquade.com/](https://kmcquade.com/)
 
 
 ### My favorite technologies
@@ -33,7 +25,7 @@ _Personal website_:
 * Jenkins
 * Open Policy Agent (OPA)
 
-Niche security passions:
+###  Niche security passions
 * AWS IAM
 * Automating AppSec testing in CI/CD pipelines
 * HashiCorp Vault
