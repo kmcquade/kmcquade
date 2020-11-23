@@ -21,6 +21,7 @@ I'm Kinnaird (he/him). My `$dayjob` is as a Lead Cloud Security Engineer at Sale
 
 * Python
 * AWS
+* Azure
 * Terraform
 * Jenkins
 * Open Policy Agent (OPA)
