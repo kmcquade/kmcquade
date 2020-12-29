@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Kinnaird (he/him). My `$dayjob` is as a Lead Cloud Security Engineer at Salesforce. Always happy to talk shop - you can find me on [Twitter](https://twitter.com/kmcquade3).
+I'm Kinnaird (he/him). My `$dayjob` is as a Principal Security Engineer at SpaceX. Always happy to talk shop - you can find me on [Twitter](https://twitter.com/kmcquade3).
+
+[![Kinnaird's github stats](https://github-readme-stats.vercel.app/api?username=kmcquade)](https://github.com/kmcquade/github-readme-stats)
 
 ### Some things I've done
 
