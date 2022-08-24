@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Kinnaird (he/him). My `$dayjob` is as a Staff Security Engineer at Square. Always happy to talk shop - you can find me on [Twitter](https://twitter.com/kmcquade3). My personal website is [https://kmcquade.com/](https://kmcquade.com/).
+I'm Kinnaird (he/him). I'm the CTO of a [stealth startup](https://twitter.com/kmcquade3/status/1555271839890386944?s=20&t=AYGsgXMUTVujP8-asOWHcw) in the security industry. Previously, I worked as a Staff Security Engineer at Square on [the Cloud Security "dream team"](https://twitter.com/JerinSaji0/status/1486107421055410178?s=20&t=AYGsgXMUTVujP8-asOWHcw), a Lead Security Engineer at Salesforce, and Cloud Security Consulting Practice Lead at Synopsys.
+
+Always happy to talk shop - you can find me on [Twitter](https://twitter.com/kmcquade3). My personal website is [https://kmcquade.com/](https://kmcquade.com/).
 
 
 <!--
