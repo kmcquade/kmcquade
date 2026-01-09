@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm Kinnaird (he/him). I'm the CTO of [NightVision Security](https://www.nightvision.net) and a lover of automated security testing. Previously, I worked as a Staff Security Engineer at Square on [the Cloud Security team](https://twitter.com/JerinSaji0/status/1486107421055410178?s=20&t=AYGsgXMUTVujP8-asOWHcw), a Lead Security Engineer at Salesforce, and Cloud Security Consulting Practice Lead at Synopsys.
+I'm Kinnaird (he/him). I'm currently the Chief Security Architect at BeyondTrust.
+
+Follow me for:
+- Hacking AI Agents
+- Cloud Security
+- Open source madness
 
 Always happy to talk shop - you can find me on [Twitter](https://twitter.com/kmcquade3). My personal website is [https://kmcquade.com/](https://kmcquade.com/).
 
